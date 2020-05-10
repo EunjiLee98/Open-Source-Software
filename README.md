@@ -2,7 +2,7 @@
 
 ## How to use?
 
-###There are **12** menus you can choose
+### There are **12** menus you can choose
 
 1. Create : risgter with your information (name, phone number, residence, enrollment date)
 2. Read : if you enter your name, you can see your information
