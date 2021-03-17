@@ -7,7 +7,7 @@
 1. Create : risgter with your information (name, phone number, residence, enrollment date)
 2. Read : if you enter your name, you can see your information
 3. Update : if you enter your name, you can change your information.
-(At that time, your recent visit will be **autoatically** changed to that date)
+(At that time, your recent visit will be **automatically** changed to that date)
 4. Delete : if you enter your name, you can delete your information, including name
 5. List : you can see all library member's information
 6. Sort(name) : you can see the sorted list by library member's name
